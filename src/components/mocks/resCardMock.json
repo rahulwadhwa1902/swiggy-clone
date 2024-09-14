@@ -1,0 +1,76 @@
+{
+    "id": "622616",
+    "name": "Domino's Pizza",
+    "cloudinaryImageId": "hsb5yt3qhechxockrbut",
+    "locality": "3rd Sector",
+    "areaName": "Rohini",
+    "costForTwo": "₹400 for two",
+    "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+    ],
+    "avgRating": 4.4,
+    "feeDetails": {
+        "restaurantId": "622616",
+        "fees": [
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 4100
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 4100
+    },
+    "parentId": "2456",
+    "avgRatingString": "4.4",
+    "totalRatingsString": "100+",
+    "sla": {
+        "deliveryTime": 35,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35 mins",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-09-10 00:59:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹699",
+        "discountTag": "FLAT DEAL"
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
